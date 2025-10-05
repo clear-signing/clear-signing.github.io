@@ -23,7 +23,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'clear-signing', // Usually your GitHub org/user name.
-  projectName: 'clear-signing', // Usually your repo name.
+  projectName: 'clear-signing.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
