@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Metadata creation process',
     description: (
       <>
-        Define and operate a process that continualy improves clear signing information for end users
+        Define and operate a process that continually improves clear signing information for end users
       </>
     ),
   },

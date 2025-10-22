@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Clear Signing Alliance',
-  tagline: 'An ecosystem effort to drive the standards and adoption of clear signinig of blockchain related transactions and messages.',
+  tagline: 'An ecosystem effort to drive the standards and adoption of clear signing of blockchain related transactions and messages.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
