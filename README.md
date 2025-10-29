@@ -4,11 +4,10 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ## Installation
 
-Preferably use Node version 22.
+Requirements:
 
-```bash
-yarn
-```
+- Node.js (preferably version 22)
+- Yarn or npm
 
 ## Local Development
 
