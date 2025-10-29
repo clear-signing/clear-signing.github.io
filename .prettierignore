@@ -1,0 +1,11 @@
+# Build directories
+build/
+.docusaurus/
+node_modules/
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Generated files
+.cache/
