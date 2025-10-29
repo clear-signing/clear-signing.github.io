@@ -4,6 +4,8 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ## Installation
 
+Preferably use Node version 22.
+
 ```bash
 yarn
 ```
@@ -26,16 +28,4 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+The latest version of the website is deployed to GitHub Pages. Any changes to the `main` branch are automatically deployed to the `gh-pages` branch and the website is live at [https://clearsigning.org](https://clearsigning.org).
